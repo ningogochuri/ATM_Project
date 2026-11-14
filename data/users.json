@@ -1,0 +1,14 @@
+[
+    {
+        "username": "nino",
+        "salt": "c82220ed78b8e8cf14d3ca6976cb9c85",
+        "password_hash": "6d8d0c89281c41916a1c902969ca6fa71f1069330dc685c0dc24034d878fcf99",
+        "balance": 0
+    },
+    {
+        "username": "Nino",
+        "salt": "f561c154e400d9687e80c89e310cf2ea",
+        "password_hash": "72bcebc00d66e26ae54c11cf7c66b1c32f5a5efe440cb09542686860c4fb3acc",
+        "balance": 10156.0
+    }
+]

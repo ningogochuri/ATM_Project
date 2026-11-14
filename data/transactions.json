@@ -1,0 +1,14 @@
+[
+    {
+        "username": "Nino",
+        "type": "withdrawal",
+        "amount": 20.0,
+        "date": "2026-11-14 14:59:34"
+    },
+    {
+        "username": "Nino",
+        "type": "deposit",
+        "amount": 100.0,
+        "date": "2026-11-14 15:00:04"
+    }
+]
