@@ -1,4 +1,3 @@
-
 from json_manager import read_data, write_data
 from transactions import record_transaction
 from validators import validate_amount

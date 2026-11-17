@@ -1,4 +1,3 @@
-
 # შემოაქვს მომხმარებლის რეგისტრაციისა და ავტორიზაციის ფუნქციები
 from auth import register_user, login_user
 

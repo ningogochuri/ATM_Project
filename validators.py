@@ -1,4 +1,3 @@
-
 # ამოწმებს მომხმარებლის სახელის სისწორეს
 def validate_username(username):
     return bool(username.strip()) and len(username.strip()) >= 3

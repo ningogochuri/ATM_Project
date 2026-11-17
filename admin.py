@@ -1,4 +1,3 @@
-
 from json_manager import read_data, write_data
 
 

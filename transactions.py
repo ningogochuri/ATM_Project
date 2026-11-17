@@ -1,4 +1,3 @@
-
 from datetime import datetime
 
 from json_manager import read_data, write_data
